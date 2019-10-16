@@ -12,7 +12,7 @@
   <version>1.0-SNAPSHOT</version>
 
   <name>vtom-service</name>
-  <!-- FIXME change it to the project's website -->
+  <!-- VITO Website -->
   <url>http://vito.absyss.fr</url>
 
   <properties>
