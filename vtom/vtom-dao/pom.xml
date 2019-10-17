@@ -4,7 +4,7 @@
   <parent>
     <artifactId>vtom</artifactId>
     <groupId>com.absyss.vito</groupId>
-    <version>3</version>
+    <version>4-SNAPSHOT</version>
   </parent>
 
   <artifactId>vtom-dao</artifactId>
@@ -23,7 +23,7 @@
     <dependency>
       <groupId>com.absyss.vito</groupId>
       <artifactId>vtom-domaine</artifactId>
-      <version>3</version>
+      <version>4-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.hibernate</groupId>

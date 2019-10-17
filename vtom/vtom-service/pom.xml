@@ -4,12 +4,12 @@
   <parent>
     <artifactId>vtom</artifactId>
     <groupId>com.absyss.vito</groupId>
-    <version>3</version>
+    <version>4-SNAPSHOT</version>
   </parent>
 
   <groupId>com.absyss.vito</groupId>
   <artifactId>vtom-service</artifactId>
-  <version>3</version>
+  <version>4-SNAPSHOT</version>
 
   <name>vtom-service</name>
   <!-- VITO Website -->
@@ -31,7 +31,7 @@
     <dependency>
       <groupId>com.absyss.vito</groupId>
       <artifactId>vtom-dao</artifactId>
-      <version>3</version>
+      <version>4-SNAPSHOT</version>
     </dependency>
   </dependencies>
 

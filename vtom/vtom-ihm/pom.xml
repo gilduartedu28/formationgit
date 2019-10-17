@@ -4,12 +4,12 @@
   <parent>
     <artifactId>vtom</artifactId>
     <groupId>com.absyss.vito</groupId>
-    <version>3</version>
+    <version>4-SNAPSHOT</version>
   </parent>
 
   <groupId>com.absyss.vito</groupId>
   <artifactId>vtom-ihm</artifactId>
-  <version>3</version>
+  <version>4-SNAPSHOT</version>
 
   <name>vtom-ihm</name>
   <!-- FIXME change it to the project's website -->
