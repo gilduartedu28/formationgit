@@ -39,4 +39,10 @@
     <module>vtom-ihm</module>
     <module>vtom-web</module>
   </modules>
+  
+   <scm>
+    <connection>scm:git:https://github.com/gilduartedu28/formationgit.git</connection>
+    <developerConnection>scm:git:https://github.com/gilduartedu28/formationgit.git</developerConnection>
+  </scm>
+  
 </project>
